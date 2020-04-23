@@ -1,0 +1,5 @@
+name: Node JSON Data
+description: Allows user to create JSON data on node.
+type: module
+version: 1.0
+core: 8.x
